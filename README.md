@@ -35,7 +35,7 @@ This project explores how Deep Q-Learning can be used to teach an AI agent to:
   - Reward:
     - +10 for eating food
     - -10 for dying
-    - -0.1 per step (to encourage faster solutions)
+    - -0 per step (to encourage faster solutions)
   - Experience Replay: Stores past experiences and trains on batches
   - Target Network: Helps stabilize learning
 
